@@ -8,6 +8,7 @@ Software Requirements
 - Python 3.5 & Above
 - Windows 7 And Above
 - Libraries: Pyttsx3, Speech_recognition, WolframAlpha, Randfacts, Pyjokes, Datetime, Random2, Math, Warnings, OS, Serial, Time, Wikipedia, Selenium Webdrive, Requests, Webbrowser.
+  
 Hardware Requirements
 - Processor: Intel Core i5
 - RAM: 4GB
